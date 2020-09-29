@@ -1,0 +1,18 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+ol{
+    text-transform: capitalize;
+    list-style: upper-roman;
+}
+ul{
+    text-transform: capitalize;
+    list-style: circle;
+}
+dl{
+    text-transform: capitalize;
+}
+dt{
+    text-transform: uppercase;
+}
